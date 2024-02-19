@@ -1,0 +1,51 @@
+body{
+	background-color: white;
+}
+form{
+	background-color: #74203e;
+	height:500px;
+	width:650px;
+	margin: 50px auto;
+	color:white;
+}
+.lbl{
+	margin-left:179px; 
+}
+#naam{
+	margin-top:100px;
+    margin-left: 55px;
+	}
+#mail{
+	    margin-left: 55px;
+		 margin-top: 10px;
+}
+#gend{
+	margin-left: 47px;
+    margin-top: 10px;
+}
+#mal{
+	margin-top: 10px;
+}
+#phn{
+	margin-top: 10px;
+}
+#lang{
+	margin-top: 10px;
+	margin-left: 30px;
+	width:176px;
+}
+
+#zcode{
+	margin-top: 10px;
+	margin-left: 33px;
+}
+#abt{
+	margin-top: 10px;
+	margin-left: 53px;
+}
+input[type="submit"]{
+	 margin-left: 174px;
+    margin-top: 10px;
+    height: 36px;
+    width: 288px;
+}
